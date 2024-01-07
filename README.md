@@ -1,3 +1,3 @@
 # TicTacToe
 
-A Tic Tac Toe game made with flutter.
+A Tic-tac-toe game made with flutter.
